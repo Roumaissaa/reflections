@@ -1,2 +1,8 @@
 When would you want to use a remote repository rather than keeping all your work local?
    When collaborating with others or to share my code.
+
+Why might you want to always pull changes manually rather than having Git automatically
+stay up-to-date with your remote repository?
+
+   Pull performs a merge when it retrieves changes, so if Git did it automatically I 
+   might get a merge conflict.
