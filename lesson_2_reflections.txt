@@ -39,3 +39,12 @@ the diagram the way we do?
    The result will be a new commit that combined the changes of the two branches from the point where they diverged.
    we represent it as a commit with two parents and that's because it's a result of the combination of two commits.
 
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+
+   pros:
+   It save time.
+   cons:
+   if Git didn't detect a conflict and merge branches together the resulting code would be broken.
+  
+
