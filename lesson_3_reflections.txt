@@ -6,3 +6,16 @@ stay up-to-date with your remote repository?
 
    Pull performs a merge when it retrieves changes, so if Git did it automatically I 
    might get a merge conflict.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+   Clone: copy a repository into a new directory.
+   I use it when I want to work locally.
+
+   Fork: copy a repository in Github.
+   I use it when I want to change github repository that I don't
+   have permission to change it.
+
+   Branch:
+   branch out from the original code base in the same repository
+   I use it when I want to add new changes without messing my base code.
