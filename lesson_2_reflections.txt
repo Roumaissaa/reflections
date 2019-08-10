@@ -16,3 +16,10 @@ What value do you think it offers?
    Staging area:
    -helps in reviewing changes
  
+ How can you use the staging area to make sure you have one commit per logical
+change?
+
+   I will add to it all the files that make up my logical change one by one, then 
+   commit all of them at once.
+
+
