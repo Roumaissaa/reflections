@@ -28,4 +28,8 @@ organized? How would branches help?
    It would be helpful when working on new features or bug fixes, because it 
    keeps the main master branch free from questionable code.
 
+How do the diagrams help you visualize the branch structure?
+
+   It help at showing the points at which branches were taken, and the ancestors and descendants for each branch.
+
 
