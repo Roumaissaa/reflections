@@ -22,4 +22,10 @@ change?
    I will add to it all the files that make up my logical change one by one, then 
    commit all of them at once.
 
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+   It would be helpful when working on new features or bug fixes, because it 
+   keeps the main master branch free from questionable code.
+
 
